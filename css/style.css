@@ -48,9 +48,7 @@ header a:hover {
 }
 
 #featured img {
-  border: 5px solid;
-  color: rgb(151 173 166);
-	
+  border: 5px rgb(151 173 166) solid;
 }
 
 #press img {
