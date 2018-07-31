@@ -47,7 +47,13 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
+#featured img {
+  order: 5px #ccc solid;
+	padding: 1px;
+}
+
 #press img {
   border: 5px #ccc solid;
 	padding: 1px;
 }
+
