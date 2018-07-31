@@ -48,7 +48,7 @@ header a:hover {
 }
 
 #featured img {
-  border: 5px #ccc solid;
+  border: 5px rgb() solid;
 	
 }
 
