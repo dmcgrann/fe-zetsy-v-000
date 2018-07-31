@@ -47,7 +47,7 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-#featured img {
+#featured > img {
   order: 5px #ccc solid;
 	padding: 1px;
 }
