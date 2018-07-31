@@ -48,7 +48,7 @@ header a:hover {
 }
 
 #featured > img {
-  order: 5px #ccc solid;
+  border: 0 5px 5px 5px #ccc solid;
 	padding: 1px;
 }
 
