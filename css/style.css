@@ -60,4 +60,5 @@ header a:hover {
 footer {
   float: right;
   float: bottom;
+  margin: 0px;
 }
