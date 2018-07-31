@@ -57,3 +57,7 @@ header a:hover {
 	padding: 1px;
 }
 
+footer {
+  float: right;
+  float: bottom;
+}
