@@ -47,8 +47,8 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-#featured > img {
-  border: 0 5px 5px 5px #ccc solid;
+#featured img {
+  border: 5px #ccc solid;
 	padding: 1px;
 }
 
