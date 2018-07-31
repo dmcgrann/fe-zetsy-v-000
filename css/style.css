@@ -58,6 +58,6 @@ header a:hover {
 }
 
 footer {
-  float: right;
-  margin: 0 10px 20px 10;
+  text-align: right;
+  color: #fff;
 }
