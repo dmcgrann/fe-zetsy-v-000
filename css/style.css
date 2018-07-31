@@ -59,6 +59,5 @@ header a:hover {
 
 footer {
   float: right;
-  float: bottom;
-  margin: 0px 10px 20px 10px;
+  margin: 0 10px 20px 10;
 }
